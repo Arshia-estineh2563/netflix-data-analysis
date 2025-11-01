@@ -78,5 +78,6 @@ The goal of this analysis is to **uncover patterns, trends, and insights** about
 
 📌 Machine Learning Enthusiast | Data Analyst
 📫 Contact: arshiaestineh2005@icloud.com
-🐙 GitHub: arshiaestineh2563
+🐙 GitHub: arshia-estineh2563
+
 if you like this project, don’t forget to ⭐ star the repo!

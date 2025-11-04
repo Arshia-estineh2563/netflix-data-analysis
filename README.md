@@ -23,7 +23,8 @@ The goal of this analysis is to **uncover patterns, trends, and insights** about
   - `listed_in`: Genres  
   - `description`: Brief summary of the content  
 
----
+----
+
 
 ## 🔧 Steps Performed  
 
@@ -82,5 +83,6 @@ The goal of this analysis is to **uncover patterns, trends, and insights** about
 🐙 GitHub: Arshia-estineh2563 (https://github.com/Arshia-estineh2563)
 
 if you like this project, don’t forget to ⭐ star the repo!
+
 
 
